@@ -4,7 +4,7 @@ Birinci ödevde kendi deponuz içinde bir depo oluşturdunuz ve bu deponun için
 
 1. [Bu video](https://www.youtube.com/watch?v=QQCJeAqBumE) izleyin. Bir yay sabitinin nasıl bulacağını gösteriyor. Sonuna kadar deneyi  izleyin ve grafiğin aynısını defterinize çizin. Okula döndüğünüzde defterinizde bu grafik kontrol edilecektir. Grafik nasıl çizililr anlayın. (*Dikkat edin:* *y ekseni (Kuvvet)*  ile *x ekseni (uzanım)* ekseni aynı ölçekte çizilmek zorunda değil. YouTube videosunda *y* ekseni çizilirken her 20 kareyi 1N alırken, *x* ekseninde her 10 kare 0.05 m alınmış.) Defter yaprağınızın bütününü kullanmayı çalışın.  Deneydeki verilere göre aşağıdak tablo hazırlanmıştır:
 
-|Kuvvet (N) | Uzanım (m)|
+|Kuvvet (N) | Uzanma (m)|
 |-----------|-----------|
 |1          | 0.035     |
 |2          | 0.08      |
